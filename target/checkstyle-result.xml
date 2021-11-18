@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\config\AppConfig.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\config\SecurityConfig.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\config\SecurityInitializer.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\config\WebAppInitializer.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\config\WebConfig.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\controller\AuthenticationController.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\controller\CinemaHallController.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\controller\CustomGlobalExceptionHandler.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\controller\MovieController.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\controller\MovieSessionController.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\controller\OrderController.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\controller\ShoppingCartController.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\controller\UserController.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\AbstractDao.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\CinemaHallDao.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\impl\CinemaHallDaoImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\impl\MovieDaoImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\impl\MovieSessionDaoImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\impl\OrderDaoImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\impl\RoleDaoImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\impl\ShoppingCartDaoImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\impl\TicketDaoImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\impl\UserDaoImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\MovieDao.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\MovieSessionDao.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\OrderDao.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\RoleDao.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\ShoppingCartDao.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\TicketDao.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dao\UserDao.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dto\request\CinemaHallRequestDto.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dto\request\MovieRequestDto.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dto\request\MovieSessionRequestDto.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dto\request\UserRequestDto.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dto\response\CinemaHallResponseDto.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dto\response\MovieResponseDto.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dto\response\MovieSessionResponseDto.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dto\response\OrderResponseDto.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dto\response\ShoppingCartResponseDto.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\dto\response\UserResponseDto.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\exception\DataProcessingException.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\lib\EmailValidator.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\lib\FieldsValueMatch.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\lib\FieldsValueMatchValidator.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\lib\ValidEmail.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\model\CinemaHall.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\model\Movie.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\model\MovieSession.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\model\Order.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\model\Role.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\model\ShoppingCart.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\model\Ticket.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\model\User.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\AuthenticationService.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\CinemaHallService.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\impl\AuthenticationServiceImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\impl\CinemaHallServiceImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\impl\MovieServiceImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\impl\MovieSessionServiceImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\impl\OrderServiceImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\impl\RoleServiceImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\impl\ShoppingCartServiceImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\impl\UserDetailsServiceImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\impl\UserServiceImpl.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\mapper\CinemaHallMapper.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\mapper\MovieMapper.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\mapper\MovieSessionMapper.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\mapper\OrderMapper.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\mapper\RequestDtoMapper.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\mapper\ResponseDtoMapper.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\mapper\ShoppingCartMapper.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\mapper\UserMapper.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\MovieService.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\MovieSessionService.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\OrderService.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\RoleService.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\ShoppingCartService.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\service\UserService.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\util\DataInitializer.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\java\cinema\app\spring\util\DateTimePatternUtil.java">
+</file>
+<file name="C:\Users\Romuth-PC\IdeaProjects\cinema-app\src\main\resources\db.properties">
+</file>
+</checkstyle>
