@@ -60,7 +60,7 @@ Second things what you need is relational database like MySQL or PostgreSQL.
 
 ## [Other information and helpfull tips](#otherinformationandhelpfulltips)
 
-- You can test this project online on [Heroku]().
+- You can test this project online on [Heroku](https://basic-cinema.herokuapp.com/).
 
 ⚠️ If you wanna connect my project to your database, just add all the necessary information in the
 
