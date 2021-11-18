@@ -10,4 +10,5 @@ public class EmailValidator implements ConstraintValidator<ValidEmail, String> {
     public boolean isValid(String field, ConstraintValidatorContext context) {
         return field != null && field.matches(EMAIL_VALIDATION_REGEX);
     }
+
 }
