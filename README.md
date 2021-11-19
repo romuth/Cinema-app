@@ -18,21 +18,21 @@
   
 ### **You can see them here**
 
-POST: /register - all<br/>
+POST: /register - all  --> input JSON example  {"email":"mail", "password":"124", "repeatPassword":"124"}<br/>
 GET: /cinema-halls - user/admin<br/>
-POST: /cinema-halls - admin<br/>
+POST: /cinema-halls - admin   --> input JSON example {"capacity":40, "description":"Red hall"}<br/>
 GET: /movies - user/admin<br/>
-POST: /movies - admin<br/>
-GET: /movie-sessions/available - user/admin<br/>
+POST: /movies - admin  --> input JSON example {"title":"Batman", "description":"A good movie"}<br/>
+GET: /movie-sessions/available - user/admin  -->  example  ?movieId={id}&date=dd.MM.yyyy<br/>
 GET: /movie-sessions/{id} - user/admin<br/>
-POST: /movie-sessions - admin<br/>
-PUT: /movie-sessions/{id} - admin<br/>
+POST: /movie-sessions - admin  --> input JSON example {"movieId":1, "cinemaHallId":1, "showTime":"28.03.2021 22:15"}<br/>
+PUT: /movie-sessions/{id} - admin  --> input JSON example  {"movieId":1, "cinemaHallId":1, "showTime":"28.03.2021 22:15"}<br/>
 DELETE: /movie-sessions/{id} - admin<br/>
 GET: /orders - user<br/>
 POST: /orders/complete - user<br/>
-PUT: /shopping-carts/movie-sessions - user<br/>
+PUT: /shopping-carts/movie-sessions - user  emample --> ?movieSessionId=1<br/>
 GET: /shopping-carts/by-user - user<br/>
-GET: /users/by-email - admin<br/>
+GET: /users/by-email - admin  --> ?email=bob@test.com<br/>
 </p>
 
 ### **Technologies used**
@@ -40,6 +40,7 @@ GET: /users/by-email - admin<br/>
 - [x] Java 11
 - [x] Hibernate
 - [x] Spring Framework
+- [x] REST
 - [x] MySQL
 - [x] Apache Tomcat
 
