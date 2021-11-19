@@ -18,21 +18,39 @@
   
 ### **You can see them here**
 
-POST: /register - all  --> input JSON example  {"email":"mail", "password":"124", "repeatPassword":"124"}<br/>
+POST: /register - all<br/>
 GET: /cinema-halls - user/admin<br/>
-POST: /cinema-halls - admin   --> input JSON example {"capacity":40, "description":"Red hall"}<br/>
+POST: /cinema-halls - admin<br/>
 GET: /movies - user/admin<br/>
-POST: /movies - admin  --> input JSON example {"title":"Batman", "description":"A good movie"}<br/>
-GET: /movie-sessions/available - user/admin  example --> ?movieId={id}&date=dd.MM.yyyy<br/>
+POST: /movies - admin<br/>
+GET: /movie-sessions/available - user/admin<br/>
 GET: /movie-sessions/{id} - user/admin<br/>
-POST: /movie-sessions - admin  --> input JSON example {"movieId":1, "cinemaHallId":1, "showTime":"28.03.2021 22:15"}<br/>
-PUT: /movie-sessions/{id} - admin  --> input JSON example  {"movieId":1, "cinemaHallId":1, "showTime":"28.03.2021 22:15"}<br/>
+POST: /movie-sessions - admin<br/>
+PUT: /movie-sessions/{id} - admin<br/>
 DELETE: /movie-sessions/{id} - admin<br/>
 GET: /orders - user<br/>
 POST: /orders/complete - user<br/>
-PUT: /shopping-carts/movie-sessions - user  emample --> ?movieSessionId=1<br/>
+PUT: /shopping-carts/movie-sessions - user<br/>
 GET: /shopping-carts/by-user - user<br/>
-GET: /users/by-email - admin  --> ?email=yourmail<br/>
+GET: /users/by-email - admin<br/>
+ 
+```java
+/register  {"email":"mail", "password":"124", "repeatPassword":"124"}  POST
+
+/cinema-halls  {"capacity":40, "description":"Red hall"}  POST
+
+/movies  {"title":"Batman", "description":"A good movie"}  POST
+ 
+/movie-sessions/available  ?movieId={id}&date=dd.MM.yyyy  GET
+
+/movie-sessions  {"movieId":1, "cinemaHallId":1, "showTime":"28.03.2021 22:15"}  POST
+
+/movie-sessions/{id}  {"movieId":1, "cinemaHallId":1, "showTime":"28.03.2021 22:15"}  PUT
+
+/shopping-carts/movie-sessions  ?movieSessionId=1  PUT
+
+/users/by-email  ?email=yourmail  GET
+ ```
 </p>
 
 ### **Technologies used**
@@ -47,7 +65,11 @@ GET: /users/by-email - admin  --> ?email=yourmail<br/>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## [Installation](#installation)
+## [Installation]
+
+## **Clone this project**
+
+Сlone this project and you are already halfway there :)
 
 ### **Apache Tomcat**
 
@@ -59,7 +81,7 @@ Second things what you need is relational database like MySQL or PostgreSQL.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## [Other information and helpfull tips](#otherinformationandhelpfulltips)
+## [Other]
 
 - You can test this project online on [Heroku](https://basic-cinema.herokuapp.com/). I use free remote db service, so it starts slowly :)
 
