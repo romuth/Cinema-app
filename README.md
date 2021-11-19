@@ -1,3 +1,16 @@
+## Content
+
+[Overview](#overview)
+
+[Technologies used](#technologies)
+
+[Installation](#installations)
+
+[Other information](#other)
+
+
+
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ABOUT THE PROJECT -->
@@ -11,6 +24,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- OVERVIEW -->
+<a name="overview"></a>
 <h2 id="overview"> :cloud: Overview</h2>
 
 <p align="justify"> 
@@ -51,6 +65,7 @@ GET: /users/by-email - admin<br/>
 
 /users/by-email  ?email=yourmail  GET
  ```
+ <a name="technologies"></a>
 </p>
 
 ### **Technologies used**
@@ -62,10 +77,11 @@ GET: /users/by-email - admin<br/>
 - [x] MySQL
 - [x] Apache Tomcat
 
+<a name="installations"></a>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## [Installation]
+## Installation
 
 ## **Clone this project**
 
@@ -81,7 +97,8 @@ Second things what you need is relational database like MySQL or PostgreSQL.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## [Other]
+## Other informations and helpful tips
+<a name="other"></a>
 
 - You can test this project online on [Heroku](https://basic-cinema.herokuapp.com/). I use free remote db service, so it starts slowly :)
 
