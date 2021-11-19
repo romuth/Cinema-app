@@ -32,7 +32,7 @@ GET: /orders - user<br/>
 POST: /orders/complete - user<br/>
 PUT: /shopping-carts/movie-sessions - user  emample --> ?movieSessionId=1<br/>
 GET: /shopping-carts/by-user - user<br/>
-GET: /users/by-email - admin  --> ?email=bob@test.com<br/>
+GET: /users/by-email - admin  --> ?email=yourmail<br/>
 </p>
 
 ### **Technologies used**
