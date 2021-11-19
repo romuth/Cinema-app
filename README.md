@@ -15,7 +15,7 @@
 
 <p align="justify"> 
   This project have multiple endpoints with user and admin access.<br/>
-  
+
 ### **You can see them here**
 
 POST: /register - all<br/>
@@ -33,7 +33,7 @@ POST: /orders/complete - user<br/>
 PUT: /shopping-carts/movie-sessions - user<br/>
 GET: /shopping-carts/by-user - user<br/>
 GET: /users/by-email - admin<br/>
- 
+
 ```java
 /register  {"email":"mail", "password":"124", "repeatPassword":"124"}  POST
 
