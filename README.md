@@ -69,7 +69,7 @@ GET: /users/by-email - admin<br/>
 
 ## **Clone this project**
 
-Сlone this project and you are already halfway there :)
+Сlone this project, and you are already halfway there :)
 
 ### **Apache Tomcat**
 
