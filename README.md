@@ -23,7 +23,7 @@ GET: /cinema-halls - user/admin<br/>
 POST: /cinema-halls - admin   --> input JSON example {"capacity":40, "description":"Red hall"}<br/>
 GET: /movies - user/admin<br/>
 POST: /movies - admin  --> input JSON example {"title":"Batman", "description":"A good movie"}<br/>
-GET: /movie-sessions/available - user/admin  -->  example  ?movieId={id}&date=dd.MM.yyyy<br/>
+GET: /movie-sessions/available - user/admin  example --> ?movieId={id}&date=dd.MM.yyyy<br/>
 GET: /movie-sessions/{id} - user/admin<br/>
 POST: /movie-sessions - admin  --> input JSON example {"movieId":1, "cinemaHallId":1, "showTime":"28.03.2021 22:15"}<br/>
 PUT: /movie-sessions/{id} - admin  --> input JSON example  {"movieId":1, "cinemaHallId":1, "showTime":"28.03.2021 22:15"}<br/>
