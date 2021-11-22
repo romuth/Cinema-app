@@ -93,7 +93,7 @@ You need to install [Apache Tomcat](https://tomcat.apache.org/download-90.cgi)®
 
 ### **MySQL**
 
-Second things what you need is relational database like MySQL or PostgreSQL.
+Third things what you need is relational database like MySQL or PostgreSQL.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -102,7 +102,7 @@ Second things what you need is relational database like MySQL or PostgreSQL.
 
 - You can test this project online on [Heroku](https://basic-cinema.herokuapp.com/). I use free remote db service, so it starts slowly :)
 
-⚠️ If you wanna connect my project to your database, just add all the necessary information in the
+⚠️ If you wanna connect my project to your database, just add all the necessary information in the application.properties
 
 
 ```java
