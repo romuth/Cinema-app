@@ -1,3 +1,6 @@
+
+# **Hello-Movie. Basic cinema app**
+
 ## Content
 
 [Overview](#overview)
@@ -7,9 +10,6 @@
 [Installation](#installations)
 
 [Other information](#other)
-
-
-
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -68,7 +68,7 @@ GET: /users/by-email - admin<br/>
  <a name="technologies"></a>
 </p>
 
-### **Technologies used**
+# **Technologies used**
 
 - [x] Java 11
 - [x] Hibernate
@@ -81,9 +81,9 @@ GET: /users/by-email - admin<br/>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Installation
+# Installation
 
-## **Clone this project**
+### **Clone this project**
 
 Сlone this project, and you are already halfway there :)
 
@@ -97,7 +97,7 @@ Third things what you need is relational database like MySQL or PostgreSQL.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Other informations and helpful tips
+# Other informations and helpful tips
 <a name="other"></a>
 
 - You can test this project online on [Heroku](https://basic-cinema.herokuapp.com/). I use free remote db service, so it starts slowly :)
